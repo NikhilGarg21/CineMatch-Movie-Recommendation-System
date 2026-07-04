@@ -5,7 +5,7 @@ API_BASE = "https://cinematch-backend-9cwa.onrender.com"
 
 st.set_page_config(page_title="CineMatch", page_icon="🎬", layout="wide")
 
-st.sidebar.info("⚙️ Note: This app uses a free-tier hosting server. If it's your first time opening it today, please allow 45-60 seconds for the backend engine to wake up and load the data matrices!")
+st.sidebar.info("⚙️ Note: (Reload Once) This app uses a free-tier hosting server. If it's your first time opening it today, please allow 45-60 seconds for the backend engine to wake up and load the data matrices!")
 # =====================================================================
 # CSS SYSTEM: LOCKS BOTH HOMEPAGE AND DETAILS REC GRIDS IN PERFECTION
 # =====================================================================
